@@ -1,7 +1,7 @@
 # Coding Resources
 
 # Table of contents
-- [Section 1]
+- [Section 1](#API)
 - 
 In this repository, I list down the websites, guides and tools that I find helpful for developers, regardless of the level of experience.
 The list is updated regularly. If you know any useful website, reach out and I'll add it to the list.
