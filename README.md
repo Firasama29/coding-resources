@@ -1,8 +1,12 @@
 # Coding Resources
 
 # Table of contents
-- [Section 1](#API)
-- 
+- API(#API)
+- educational(#educational)
+- General(##General)
+- Java(##Java)
+- Spring(##Spring)
+- Spring Boot (##Spring Boot)
 In this repository, I list down the websites, guides and tools that I find helpful for developers, regardless of the level of experience.
 The list is updated regularly. If you know any useful website, reach out and I'll add it to the list.
 
@@ -39,7 +43,7 @@ Rapid API [https://rapidapi.com/hub/]
 Spring Guides [https://spring.io/guides/]
 - Spring Tutorial - Baeldung [https://www.baeldung.com/spring-tutorial]
 
---SPRING BOOT
+--Spring Boot
 - Spring Boot - Spring Academy [https://spring.academy/courses/spring-boot]
 - Learn Spring Boot - Baeldung [https://www.baeldung.com/spring-boot]
 --Javascript
