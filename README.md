@@ -1,7 +1,7 @@
 # Coding Resources
 
 # Table of contents
-- [Learning Platforms](#Learning Platforms)
+- [Learning Platforms](#Learning-Platforms)
 - [API](#API)
 - [General](##General)
 - [Java](##Java)
