@@ -11,7 +11,7 @@ In this repository, I list down the websites, guides and tools that I find helpf
 The list is updated regularly. If you know any useful website, reach out and I'll add it to the list.
 
 ## API
-Rapid API [https://rapidapi.com/hub/]
+[Rapid API](https://rapidapi.com/hub/)
 
 
 ## educational
