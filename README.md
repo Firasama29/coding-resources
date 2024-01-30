@@ -16,7 +16,7 @@
 A list of helpful websites, guides, articles and tools for developers.
 The list is updated regularly. If you know any useful website, reach out and I'll add it to the list.
 
-## Leaning Platforms
+## Learning Platforms
 - [freecodecamp](https://firebase.google.com/)
 - [Scrimba](https://scrimba.com/)
 - [Codeacademy](http://codecademy.com/)
