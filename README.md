@@ -12,6 +12,8 @@
 - [github-repositories](##github-repositories)
 - [Tools](##Tools)
 - [Youtube-Channels](##Youtube-Channels)
+- [Coding Challenges](##Coding-Challenges)
+- [Free-Hosting](##Free-Hosting)
   
 A list of helpful websites, guides, articles and tools for developers.
 The list is updated regularly. If you know any useful website, reach out and I'll add it to the list.
@@ -97,7 +99,7 @@ Spring Guides](https://spring.io/guides/)
 - [Codezilla](https://www.youtube.com/@Codezilla) (arabic)
 - [Mohamed Abusrea - محمد أبوسريع](https://www.youtube.com/@MohamedAbusrea) (Arabic)
 
-## Coding Challenges
+## Coding-Challenges
 - [codewars](https://www.codewars.com/)
 - [hackerrank](https://www.hackerrank.com/)
 - [leetcode](https://leetcode.com/)
@@ -105,9 +107,10 @@ Spring Guides](https://spring.io/guides/)
 - [codechef](https://www.codechef.com/)
 - [#100DaysOfCode](https://www.100daysofcode.com/)
 - [30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
+- [10 Most Popular Coding Challenge Websites](https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f)
 
 
-## Free Hosting
+## Free-Hosting
 - [Hostinger](https://www.hostinger.in/free-web-hosting)
 - [Netlify](https://netlify.com/)
 - [Vercel](https://vercel.com/)
